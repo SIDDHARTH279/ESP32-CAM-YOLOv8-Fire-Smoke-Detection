@@ -1,0 +1,13 @@
+train: /content/dataset/train/images
+val: /content/dataset/valid/images
+test: /content/dataset/test/images
+
+nc: 2
+names: ['fire', 'smoke']
+
+roboflow:
+  workspace: nishit-soni
+  project: fire-smoke-detection-welyd-oqo8t
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nishit-soni/fire-smoke-detection-welyd-oqo8t/dataset/dataset
