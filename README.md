@@ -1,1 +1,0 @@
-# ESP32-CAM-YOLOv8-Fire-Smoke-Detection
